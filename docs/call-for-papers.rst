@@ -50,12 +50,13 @@ Adoption and Governance
 - community practices and governance models for improving research software
   supply chain security
 
-Submission Types
-----------------
+Submissions
+-----------
 
 We invite **two-page abstracts** covering early-stage ideas, position
 statements, and practitioner experience reports, as well as more developed
-research results, prototypes, systems work, or empirical studies.
+research results, prototypes, systems work, or empirical studies. Accepted
+abstracts will be presented as posters at the workshop.
 
 Abstracts are expected to follow the IEEE eScience workshop formatting
 guidelines.

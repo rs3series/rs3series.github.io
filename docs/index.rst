@@ -7,10 +7,10 @@ cybersecurity researchers to examine how software supply chain risks affect
 scientific computing.
 
 RS3 focuses on the research software supply chain as a foundational part of
-scientific cyberinfrastructure. The workshop is intended as a venue for
-operational experience reports, position papers, early-stage research, and
-short technical papers that address the security, integrity, trustworthiness,
-and usability of research software ecosystems.
+scientific cyberinfrastructure. The workshop is built around a poster session:
+submit a two-page abstract, prepare a poster, and join the discussion on the
+security, integrity, trustworthiness, and usability of research software
+ecosystems.
 
 .. grid:: 1 1 2 2
 
@@ -25,8 +25,8 @@ and usability of research software ecosystems.
       :link: program
       :link-type: doc
 
-      The workshop is planned as a full-day event with a keynote, paper talks,
-      a panel, posters, and breakout sessions.
+      The workshop is planned as a half-day event centered on a poster session
+      and a panel discussion.
 
    .. grid-item-card:: Organizers
       :link: organizers
@@ -45,7 +45,7 @@ and usability of research software ecosystems.
       :link: logistics
       :link-type: doc
 
-      Location, conference context, publication details, and website status.
+      Location, conference context, and website status.
 
    .. grid-item-card:: Suggested Readings
       :link: suggested-readings
