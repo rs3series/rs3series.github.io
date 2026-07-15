@@ -75,8 +75,8 @@ Important Dates
 ---------------
 
 - Submission deadline: July 6, 2026
-- Notification date: July 24, 2026
-- Camera-ready deadline: August 6, 2026
+- Notification date: August 7, 2026
+- Final version of abstracts: August 14, 2026
 - Workshop date: ``TBD``
 
 Submission Link
