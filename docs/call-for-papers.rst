@@ -64,8 +64,6 @@ Review Process
 --------------
 
 - each abstract will be reviewed by at least two program committee members
-- accepted submissions are expected to appear in the IEEE eScience workshop
-  proceedings
 
 Reviews will consider relevance to the workshop theme, clarity, technical or
 experiential contribution, quality of scholarship and presentation, and the
