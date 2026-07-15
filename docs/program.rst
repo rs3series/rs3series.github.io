@@ -11,7 +11,7 @@ The current structure from the workshop proposal includes:
 
 - opening remarks and workshop overview
 - keynote presentation
-- short paper presentations
+- abstract presentations
 - poster session for all accepted submissions
 - panel discussion
 - breakout group sessions

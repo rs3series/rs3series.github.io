@@ -53,21 +53,17 @@ Adoption and Governance
 Submission Types
 ----------------
 
-We plan to accept two categories of submissions:
+We invite **two-page abstracts** covering early-stage ideas, position
+statements, and practitioner experience reports, as well as more developed
+research results, prototypes, systems work, or empirical studies.
 
-- **Two-page abstracts** for early-stage ideas, position statements, and
-  practitioner experience reports
-- **Four-page short papers** for more developed research results, prototypes,
-  systems work, or empirical studies
-
-All submissions are expected to follow the IEEE eScience workshop formatting
+Abstracts are expected to follow the IEEE eScience workshop formatting
 guidelines.
 
 Review Process
 --------------
 
-- abstracts will be reviewed by at least one program committee member
-- short papers will be reviewed by at least two program committee members
+- each abstract will be reviewed by at least two program committee members
 - accepted submissions are expected to appear in the IEEE eScience workshop
   proceedings
 
