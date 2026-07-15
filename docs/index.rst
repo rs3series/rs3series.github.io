@@ -14,7 +14,7 @@ ecosystems.
 
 .. grid:: 1 1 2 2
 
-   .. grid-item-card:: Call for Papers
+   .. grid-item-card:: Call for Participation
       :link: call-for-papers
       :link-type: doc
 

@@ -1,5 +1,5 @@
-Call for Papers
-===============
+Call for Participation
+======================
 
 The Workshop on Research Software Supply Chain Security (RS3) invites
 submissions on the technical, organizational, operational, and human aspects of
