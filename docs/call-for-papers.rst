@@ -80,7 +80,7 @@ Important Dates
 ---------------
 
 - Submission deadline: Friday, July 31, 2026
-- Notification date: July 24, 2026
+- Notification date: August 4, 2026
 - Camera-ready deadline: August 6, 2026
 - Workshop date: During IEEE eScience 2026 (September 28 – October 2, 2026)
 
