@@ -79,10 +79,10 @@ community.
 Important Dates
 ---------------
 
-- Submission deadline: July 6, 2026
+- Submission deadline: Friday, July 31, 2026
 - Notification date: July 24, 2026
 - Camera-ready deadline: August 6, 2026
-- Workshop date: ``TBD``
+- Workshop date: During IEEE eScience 2026 (September 28 – October 2, 2026)
 
 Submission Link
 ---------------
