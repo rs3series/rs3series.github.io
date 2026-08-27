@@ -11,7 +11,7 @@ Venue
 -----
 
 - Workshop location: Naples, Italy
-- Workshop date: ``TBD`` (during the conference dates September 28–October 2, 2026)
+- Workshop date: During IEEE eScience 2026 (September 28 – October 2, 2026)
 - Registration details: see `IEEE eScience 2026 <https://www.escience-conference.org/2026/>`_
 
 Workshop Materials

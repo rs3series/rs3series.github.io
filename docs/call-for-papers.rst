@@ -74,10 +74,10 @@ community.
 Important Dates
 ---------------
 
-- Submission deadline: July 6, 2026
-- Notification date: August 7, 2026
-- Final version of abstracts: August 14, 2026
-- Workshop date: ``TBD``
+- Submission deadline: Friday, July 31, 2026
+- Notification date: August 4, 2026
+- Final version of abstracts: August 6, 2026
+- Workshop date: During IEEE eScience 2026 (September 28 – October 2, 2026)
 
 Submission Link
 ---------------
