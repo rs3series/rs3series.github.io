@@ -44,5 +44,5 @@ html_theme_options = {
     "use_edit_page_button": False,
     "use_issues_button": False,
     "show_navbar_depth": 2,
-    # "announcement": "The Call for Papers is now open! Submit at <URL>.",
+    # "announcement": "The Call for Participation is now open! Submit at <URL>.",
 }

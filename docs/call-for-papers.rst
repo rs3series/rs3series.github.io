@@ -1,5 +1,5 @@
-Call for Papers
-===============
+Call for Participation
+======================
 
 The Workshop on Research Software Supply Chain Security (RS3) invites
 submissions on the technical, organizational, operational, and human aspects of
@@ -50,26 +50,21 @@ Adoption and Governance
 - community practices and governance models for improving research software
   supply chain security
 
-Submission Types
-----------------
+Submissions
+-----------
 
-We plan to accept two categories of submissions:
+We invite **two-page abstracts** covering early-stage ideas, position
+statements, and practitioner experience reports, as well as more developed
+research results, prototypes, systems work, or empirical studies. Accepted
+abstracts will be presented as posters at the workshop.
 
-- **Two-page abstracts** for early-stage ideas, position statements, and
-  practitioner experience reports
-- **Four-page short papers** for more developed research results, prototypes,
-  systems work, or empirical studies
-
-All submissions are expected to follow the IEEE eScience workshop formatting
+Abstracts are expected to follow the IEEE eScience workshop formatting
 guidelines.
 
 Review Process
 --------------
 
-- abstracts will be reviewed by at least one program committee member
-- short papers will be reviewed by at least two program committee members
-- accepted submissions are expected to appear in the IEEE eScience workshop
-  proceedings
+- each abstract will be reviewed by at least two program committee members
 
 Reviews will consider relevance to the workshop theme, clarity, technical or
 experiential contribution, quality of scholarship and presentation, and the
@@ -80,8 +75,8 @@ Important Dates
 ---------------
 
 - Submission deadline: July 6, 2026
-- Notification date: July 24, 2026
-- Camera-ready deadline: August 6, 2026
+- Notification date: August 7, 2026
+- Final version of abstracts: August 14, 2026
 - Workshop date: ``TBD``
 
 Submission Link

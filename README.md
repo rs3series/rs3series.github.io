@@ -42,5 +42,5 @@ left intentionally marked as `TBD`, including:
 - final workshop date and venue details
 - submission deadline and notification dates
 - EasyChair or conference submission link
-- confirmed keynote and panelists
+- confirmed panelists
 
