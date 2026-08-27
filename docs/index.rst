@@ -1,93 +1,178 @@
-Workshop on Research Software Supply Chain Security (RS3)
-==========================================================
+Research Software Supply Chain Security
+=======================================
 
-The **Workshop on Research Software Supply Chain Security (RS3)** will bring
-together research software engineers, scientists, infrastructure operators, and
-cybersecurity researchers to examine how software supply chain risks affect
-scientific computing.
+.. container:: rs3-hero
 
-RS3 focuses on the research software supply chain as a foundational part of
-scientific cyberinfrastructure. The workshop is built around a poster session:
-submit a two-page abstract, prepare a poster, and join the discussion on the
-security, integrity, trustworthiness, and usability of research software
-ecosystems.
+   .. container:: rs3-eyebrow
+
+      RESEARCH · COMMUNITY · PRACTICE
+
+   **Research depends on software. That software depends on a supply chain.**
+
+   We are a research collaboration working to understand, characterize, and
+   secure the software supply chains that support scientific discovery. Our work
+   brings together research software engineering, cybersecurity, scientific
+   computing, and human and organizational perspectives.
+
+   This site is the home for our evolving collection of research, readings,
+   community events, and practical efforts around research software supply chain
+   security (RS3).
+
+   .. container:: rs3-hero-links
+
+      :doc:`Explore the readings <suggested-readings>` ·
+      `See our events <#events>`_ ·
+      `Meet the team <#people>`_
+
+Why Research Software Supply Chain Security Matters
+---------------------------------------------------
+
+Research software rarely stands alone. It is developed and used within a
+layered ecosystem of open source dependencies, package registries, build and
+deployment tools, containers, data platforms, shared infrastructure, and
+institutional practices. Weaknesses anywhere in that ecosystem can affect not
+only systems and data, but also the reproducibility, integrity, and
+trustworthiness of scientific results.
+
+Securing this supply chain requires more than applying tools designed for
+commercial software. We need to understand how research software is actually
+built, shared, maintained, and operated—and develop approaches that preserve
+the openness, reuse, and rapid experimentation on which science depends.
+
+.. grid:: 1 1 3 3
+
+   .. grid-item-card:: Understand
+      :class-card: rs3-pillar-card rs3-understand
+
+      Build a shared model of research software supply chains, their
+      participants, dependencies, and environments.
+
+   .. grid-item-card:: Characterize
+      :class-card: rs3-pillar-card rs3-characterize
+
+      Study real research software ecosystems, practices, threats, and the
+      technical and organizational conditions that shape risk.
+
+   .. grid-item-card:: Secure
+      :class-card: rs3-pillar-card rs3-secure
+
+      Develop and evaluate usable mechanisms, guidance, and governance for
+      strengthening research software without impeding discovery.
+
+Readings
+--------
+
+Our :doc:`Suggested Readings <suggested-readings>` collect research and policy
+resources across four themes: ecosystems and practices, threats and
+consequences, technical mechanisms and deployment, and adoption and
+governance. They offer an introduction to the problem space and provide context
+for our ongoing work.
+
+.. grid:: 1
+
+   .. grid-item-card:: Explore the Suggested Readings
+      :link: suggested-readings
+      :link-type: doc
+      :class-card: rs3-feature-card rs3-reading-card
+
+      Start with research on scientific software repositories, security
+      defects, operationalizing supply chain security, containerization, and
+      research security policy.
+
+.. _events:
+
+Events
+------
+
+We convene researchers, research software engineers, infrastructure operators,
+and security practitioners to develop a clearer understanding of the research
+software supply chain and turn that understanding into practical action.
 
 .. grid:: 1 1 2 2
 
-   .. grid-item-card:: Call for Participation
-      :link: call-for-papers
-      :link-type: doc
+   .. grid-item-card:: USRSE'26 Interactive Workshop
+      :link: https://us-rse.org/usrse26/program/workshops/
+      :class-card: rs3-event-card rs3-usrse-card
 
-      Topics include research software ecosystems, supply chain threats,
-      provenance, security practices, governance, and human factors.
+      **A Group Attempt at Threat Modeling for Research Software Systems**
 
-   .. grid-item-card:: Program
-      :link: program
-      :link-type: doc
+      A collaborative, hands-on session for identifying threats involving
+      software supply chains, dependencies, and organizational factors.
+      USRSE'26 takes place October 19–21, 2026, in San Jose, California.
 
-      The workshop is planned as a half-day event centered on a poster session
-      and a panel discussion.
+   .. grid-item-card:: RS3 at IEEE eScience 2026
+      :class-card: rs3-event-card rs3-escience-card
 
-   .. grid-item-card:: Organizers
-      :link: organizers
-      :link-type: doc
+      Our proposed Workshop on Research Software Supply Chain Security brings
+      together technical, operational, organizational, and human perspectives.
 
-      Meet the organizing team from Purdue University, Loyola University
-      Chicago, and the University of Alabama.
+      :doc:`Call for Participation <call-for-papers>` ·
+      :doc:`Program <program>` ·
+      :doc:`Program Committee <program-committee>` ·
+      :doc:`Logistics <logistics>`
 
-   .. grid-item-card:: Program Committee
-      :link: program-committee
-      :link-type: doc
+.. _people:
 
-      Reviewers shaping the workshop program.
+People
+------
 
-   .. grid-item-card:: Logistics
-      :link: logistics
-      :link-type: doc
+This effort is organized by researchers whose work spans software engineering,
+cybersecurity, computational science, research software engineering, and human
+and organizational behavior.
 
-      Location, conference context, and website status.
+.. grid:: 1 1 2 2
 
-   .. grid-item-card:: Suggested Readings
-      :link: suggested-readings
-      :link-type: doc
+   .. grid-item-card:: James C. Davis
+      :class-card: rs3-person-card rs3-person-davis
 
-      Example papers and orientation readings organized by workshop theme.
+      **Purdue University**
 
-Why This Workshop
------------------
+      Software engineering and cybersecurity, especially software reuse and
+      software supply chain security.
 
-Modern scientific discovery depends on layered software ecosystems: research
-code, open source dependencies, packaging tools, execution environments, data
-platforms, and shared cyberinfrastructure. These dependencies shape
-reproducibility and velocity, but they also introduce security and trust risks
-that are often invisible in day-to-day scientific practice.
+      `Visit profile ↗ <https://davisjam.github.io/>`_
 
-RS3 creates a forum to discuss those risks without losing sight of the values
-that make scientific software effective: openness, reuse, interoperability, and
-rapid experimentation.
+   .. grid-item-card:: George K. Thiruvathukal
+      :class-card: rs3-person-card rs3-person-george
 
-Scope
------
+      **Loyola University Chicago · Argonne National Laboratory**
 
-The workshop will explore:
+      Software engineering for computational science and high-performance
+      computing environments.
 
-- research software supply chains in laboratories, institutions, and scientific
-  collaborations
-- security and trust implications for reproducibility and scientific integrity
-- technical mechanisms such as provenance, signing, attestation, and dependency
-  transparency
-- operational and organizational issues including governance, compliance, and
-  adoption
-- emerging challenges from AI-enabled science and autonomous research agents
+      `Visit profile ↗ <https://gkt.sh>`_
+
+   .. grid-item-card:: Alexandra Harris-Watson
+      :class-card: rs3-person-card rs3-person-alexandra
+
+      **Purdue University**
+
+      Human and organizational behavior, team dynamics, psychometrics, and
+      human-technology interaction.
+
+      `Visit profile ↗ <https://sites.google.com/view/aharriswatson/about>`_
+
+   .. grid-item-card:: Jeffrey C. Carver
+      :class-card: rs3-person-card rs3-person-jeffrey
+
+      **University of Alabama**
+
+      Software engineering for scientific computing and research software
+      engineering.
+
+      `Visit profile ↗ <https://carver.cs.ua.edu/>`_
+
+Learn more about the organizers' research interests and find their
+:doc:`contact information <organizers>`.
 
 
 .. toctree::
    :maxdepth: 1
    :hidden:
 
-   call-for-papers
    suggested-readings
-   program
    organizers
+   call-for-papers
+   program
    program-committee
    logistics
