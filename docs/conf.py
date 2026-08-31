@@ -1,12 +1,12 @@
 import os
 
-project = "RS3 eScience 2026"
+project = "CROSS"
 author = (
     "James C. Davis, George K. Thiruvathukal, "
     "Alexandra Harris-Watson, Jeffrey C. Carver"
 )
-copyright = "2026, RS3 Workshop Organizers"
-repository = os.environ.get("GITHUB_REPOSITORY", "OWNER/rs3-eScience-2026")
+copyright = "2026, CROSS Project"
+repository = os.environ.get("GITHUB_REPOSITORY", "rs3series/rs3series.github.io")
 
 extensions = [
     "sphinx.ext.todo",
@@ -30,7 +30,7 @@ myst_enable_extensions = [
 todo_include_todos = True
 
 html_theme = "sphinx_book_theme"
-html_title = "RS3 at IEEE eScience 2026"
+html_title = "CROSS | Research Software Supply Chain Security"
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 html_show_sourcelink = False

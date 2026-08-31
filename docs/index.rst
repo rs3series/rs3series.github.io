@@ -14,9 +14,9 @@ Research Software Supply Chain Security
    brings together research software engineering, cybersecurity, scientific
    computing, and human and organizational perspectives.
 
-   This site is the home for our evolving collection of research, readings,
-   community events, and practical efforts around research software supply chain
-   security (RS3).
+   This site is the home for CROSS—the Community aROund Securing the Research
+   Software Supply Chain—and our evolving collection of research, readings,
+   community events, and practical efforts.
 
    .. container:: rs3-hero-links
 
@@ -88,10 +88,9 @@ We convene researchers, research software engineers, infrastructure operators,
 and security practitioners to develop a clearer understanding of the research
 software supply chain and turn that understanding into practical action.
 
-.. grid:: 1 1 2 2
+.. grid:: 1
 
    .. grid-item-card:: USRSE'26 Interactive Workshop
-      :link: https://us-rse.org/usrse26/program/workshops/
       :class-card: rs3-event-card rs3-usrse-card
 
       **A Group Attempt at Threat Modeling for Research Software Systems**
@@ -100,16 +99,8 @@ software supply chain and turn that understanding into practical action.
       software supply chains, dependencies, and organizational factors.
       USRSE'26 takes place October 19–21, 2026, in San Jose, California.
 
-   .. grid-item-card:: RS3 at IEEE eScience 2026
-      :class-card: rs3-event-card rs3-escience-card
-
-      Our proposed Workshop on Research Software Supply Chain Security brings
-      together technical, operational, organizational, and human perspectives.
-
-      :doc:`Call for Participation <call-for-papers>` ·
-      :doc:`Program <program>` ·
-      :doc:`Program Committee <program-committee>` ·
-      :doc:`Logistics <logistics>`
+      :doc:`Learn more about the workshop and its role in CROSS
+      <usrse26-workshop>` →
 
 .. _people:
 
@@ -162,17 +153,9 @@ and organizational behavior.
 
       `Visit profile ↗ <https://carver.cs.ua.edu/>`_
 
-Learn more about the organizers' research interests and find their
-:doc:`contact information <organizers>`.
-
-
 .. toctree::
    :maxdepth: 1
    :hidden:
 
    suggested-readings
-   organizers
-   call-for-papers
-   program
-   program-committee
-   logistics
+   usrse26-workshop
