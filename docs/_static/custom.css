@@ -198,16 +198,8 @@
   background: linear-gradient(145deg, #edf8f7, #ffffff 72%);
 }
 
-.rs3-escience-card {
-  background: linear-gradient(145deg, #fff5e3, #ffffff 72%);
-}
-
 .rs3-usrse-card .sd-card-header {
   border-bottom-color: rgba(20, 125, 128, 0.15);
-}
-
-.rs3-escience-card .sd-card-header {
-  border-bottom-color: rgba(229, 168, 43, 0.2);
 }
 
 .rs3-person-card {
